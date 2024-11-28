@@ -2,7 +2,7 @@
 This repository contains the R scripts to reproduce the numerical results in
 
 Jizhou Kang and Athanasios Kottas.
-"[*Flexible Bayesian modeling for longitudinal binary and ordinal responses.*](https://link.springer.com/article/10.1007/s11222-024-10525-2?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241026&utm_content=10.1007%2Fs11222-024-10525-2)" Statistics and Computing Volume 34, article number 206, 2024. [https://doi.org/10.1214/23-BA1405](https://doi.org/10.1007/s11222-024-10525-2)
+"[*Flexible Bayesian modeling for longitudinal binary and ordinal responses.*](https://link.springer.com/article/10.1007/s11222-024-10525-2?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241026&utm_content=10.1007%2Fs11222-024-10525-2)" Statistics and Computing Volume 34, article number 206, 2024. [https://doi.org/10.1007/s11222-024-10525-2](https://doi.org/10.1007/s11222-024-10525-2)
 
 ### Components of the repository
 
